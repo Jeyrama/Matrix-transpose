@@ -33,3 +33,5 @@ function transpose(matrix) {
   }
   return transposed;
 }
+
+// or
