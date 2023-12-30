@@ -16,3 +16,6 @@ For example, the transpose of:
   | 2 5 |
   | 3 6 |
 */
+
+
+// Solution
